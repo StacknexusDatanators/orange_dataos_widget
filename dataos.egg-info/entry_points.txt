@@ -1,0 +1,2 @@
+[orange.widgets]
+dataos = orange_dataos

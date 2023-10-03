@@ -1,0 +1,10 @@
+README.md
+setup.py
+dataos.egg-info/PKG-INFO
+dataos.egg-info/SOURCES.txt
+dataos.egg-info/dependency_links.txt
+dataos.egg-info/entry_points.txt
+dataos.egg-info/top_level.txt
+orange_dataos/__init__.py
+orange_dataos/orange_dataos.py
+orange_dataos/icons/dataos_logo.svg
